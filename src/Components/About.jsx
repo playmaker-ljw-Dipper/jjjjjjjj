@@ -36,7 +36,7 @@ const skillsList = [
   "learn cyber security",
   "future building",
   "Make the world better",
-  "have a memorible club life ",
+  "have a memorible club life in our university  ",
 ];
 
 /**

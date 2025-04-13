@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "THE alepay now offer discount for who want to use pengyipeng";
+  "THE alepay club now offer discount for who want to use pengyipeng";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -53,7 +53,7 @@ const About = () => {
       <img className="background" src={image} alt={imageAltText} />
       <div
         style={{
-          backgroundColor: "white",
+          backgroundColor: "blue",
           width: "50%",
           padding: "4rem",
           margin: "3rem auto",

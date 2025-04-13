@@ -31,7 +31,7 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "trabsfer to me and welcome the success 🎉",
+    title: "transfer to me and welcome the success 🎉",
     description:
       "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
     url: "https://qr.alipay.com/fkx17757ld5stzkuaw3h758?t=1744550377539",
@@ -43,7 +43,7 @@ const projectList = [
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "the template provider's  Resume Site",
+    title: "the template provider's alepay Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",

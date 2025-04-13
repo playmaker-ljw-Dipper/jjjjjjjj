@@ -24,8 +24,8 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "MLSA MUST CLUB",
-  title: "Micro to learn , Must be better!",
+  name: "ALEPAY MUST CLUB",
+  title: "Micro to ale , Must be paid!",
   email: "",
   gitHub: "microsoft",
   instagram: "microsoft",

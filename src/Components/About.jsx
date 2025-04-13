@@ -60,7 +60,7 @@ const About = () => {
           textAlign: "center",
         }}
       >
-        <h2>About our club</h2>
+        <h2>About our PENGYIPENG club</h2>
         <p className="large">{description}</p>
         <hr />
         <ul

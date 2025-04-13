@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/pengyipeng.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "THE MLSA club in MUST is created to make ourself better then make the world better";
+  "THE alepay now offer discount for who want to use pengyipeng";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "know more about AI",
+  "know more about AI pengyipenng",
   "learn computer organization",
   "learn cyber security",
   "future building",
   "Make the world better",
-  "have a memorible club life in our university  ",
+  "have a memorible peng yi peng  life in our university  ",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "First we serve our club member , then our supporter, finaly the whole world ";
+  "First we serve our pengyipeng club member , then our supporter, finaly the whole world ";
 
 const About = () => {
   return (
